@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_abiva.png",
+        "source": "/home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/res/mipmap-xxhdpi/ic_abiva.png"
+    }
+]

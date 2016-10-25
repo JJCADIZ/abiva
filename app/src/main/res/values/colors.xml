@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#2980b9</color>
+    <color name="navBackground">#2c3e50</color>
+    <color name="splashBackground">#bdc3c7</color>
+
+    <color name="splash1">#2c3e50</color>
+    <color name="splash2">#9b59b6</color>
+    <color name="splash3">#e67e22</color>
+    <color name="splash4">#e74c3c</color>
+</resources>
