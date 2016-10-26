@@ -27,7 +27,7 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="294dp"
+        android:layout_height="271dp"
         android:paddingTop="10dp"
         android:paddingBottom="5dp"
         android:weightSum="1">
@@ -42,18 +42,20 @@
 
     <LinearLayout
         android:orientation="vertical"
-        android:paddingTop="81dp"
+        android:paddingTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <TextView
-            android:text="Fun, Educational and Intuitive"
+            android:text="An educational app that's composed of Fun and Intuitive learning processes! If you are a student, then this app is for you! Like learning on the go? with this app, you can!"
             android:layout_width="match_parent"
-            android:gravity="center"
-            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="222dp"
             android:id="@+id/textView6"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:textColor="@android:color/background_light" />
     </LinearLayout>
 </LinearLayout>

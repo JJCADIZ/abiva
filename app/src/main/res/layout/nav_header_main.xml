@@ -13,22 +13,58 @@
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
     android:weightSum="1">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="97dp"
-        android:layout_height="76dp"
-        android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:layout_gravity="left"
-        app:srcCompat="@mipmap/ic_abiva"
-        android:layout_weight="0.27" />
-
-    <TextView
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingTop="5dp"
-        android:textSize="20sp"
-        android:text="Abiva Sample App"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        android:layout_height="match_parent"
+        android:layout_weight="0.57">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="81dp"
+            android:layout_height="93dp"
+            app:srcCompat="@mipmap/ic_abiva"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:textSize="20sp"
+                android:text="Abiva"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:layout_weight="1" />
+
+            <TextView
+                android:text="Sample"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView11"
+                android:layout_weight="1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+
+                android:textSize="20sp"/>
+
+            <TextView
+                android:text="App"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView12"
+                android:layout_weight="1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+
+                android:textSize="20sp"/>
+        </LinearLayout>
+
+    </LinearLayout>
 
 
 </LinearLayout>

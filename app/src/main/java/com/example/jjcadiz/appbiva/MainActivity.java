@@ -64,17 +64,25 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
-
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (id == R.id.nav_parents) {
-            // Handle the camera action
+
+            //drawer.closeDrawer(GravityCompat.START);
+            Intent intent = new Intent(this, ParentActivity.class);
+            startActivity(intent);
+
         } else if (id == R.id.nav_students) {
+            //drawer.closeDrawer(GravityCompat.START);
+            Intent intent = new Intent(this, StudentActivity.class);
+            startActivity(intent);
 
         } else if (id == R.id.nav_teachers) {
-
+            //drawer.closeDrawer(GravityCompat.START);
+            Intent intent = new Intent(this, TeacherActivity.class);
+            startActivity(intent);
         }
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
+        //drawer.closeDrawer(GravityCompat.START);
         return true;
     }
 }

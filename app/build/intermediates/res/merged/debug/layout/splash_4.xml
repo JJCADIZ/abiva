@@ -27,7 +27,7 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="234dp">
 
         <ImageView
             android:layout_width="match_parent"
@@ -38,19 +38,21 @@
 
     <LinearLayout
         android:orientation="vertical"
-        android:paddingTop="45dp"
+        android:paddingTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <TextView
-            android:text="Interactive Teaching and Exercises"
+            android:text="An app that can easily help teachers give out assignments, exercises and assessments. with interactive Teaching, you can make sure that your students are learning and enjoying at the same time. "
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:id="@+id/textView9"
-            android:gravity="center"
+            android:gravity="left"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:textColor="@android:color/background_light"
-            android:textSize="28sp" />
+            android:textSize="20sp" />
     </LinearLayout>
 
 </LinearLayout>

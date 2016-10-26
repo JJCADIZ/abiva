@@ -3,30 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a5835de69f8d41c72747309dc40f00c9c16c33e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9e8aeb068a482790a8abe6a1be1557b08094b3c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="461cd433c2723981c7536d60acfcf3d86f3105fb">
         <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.github.paolorotolo-appintro-4.1.0_b6d6213daeae2d94cf225d2f8165a76658ca60ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0e74fc8b17a2891af95b39b11ebc986a70a6b9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5e24d4762167877a8f2a5dd710183b79c6bbbbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ab6b3f527a548401e55c9ef831fdc090bd5adf97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_cb336be21f574b0aacc87996ad1f759b707ecdcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a5835de69f8d41c72747309dc40f00c9c16c33e7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,15 +75,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0e74fc8b17a2891af95b39b11ebc986a70a6b9df.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,21 +84,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d370f7989c97fbc140cdd12db346e8eff6a6dc3">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/instant-run_899f0311b1dc262e082c18cc0ebf163b30697e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_542d8bdd9a67ad07eb489b73be1ea0d7c10f4aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_e470608c6ee3f8cdcc43fd4fa6fa4a696152cc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_9e8aeb068a482790a8abe6a1be1557b08094b3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_16476132f390e41b090287b20afeaae6a1685190.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e506050330424908399383f0e28f655cb636e6f3">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/instant-run_899f0311b1dc262e082c18cc0ebf163b30697e84.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,24 +156,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_542d8bdd9a67ad07eb489b73be1ea0d7c10f4aea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="34b03b40f544791b9394a0e47206f63a6b800517">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cee6d2c172d01810650260fe2025a982a90949be.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/jjcadiz/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -138,21 +165,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5e24d4762167877a8f2a5dd710183b79c6bbbbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ab6b3f527a548401e55c9ef831fdc090bd5adf97.jar" />
+        sha1="8baf718c98ca2d43dcfa3254207d9f3871f5542a">
+        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cee6d2c172d01810650260fe2025a982a90949be.jar" />
     </item>
     <item
         is-multidex="false"
@@ -162,24 +180,6 @@
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_28b1a8beead09f361cd8e6d44feff5b2530c2bc9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_cb336be21f574b0aacc87996ad1f759b707ecdcb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_e470608c6ee3f8cdcc43fd4fa6fa4a696152cc2f.jar" />
     </item>
 
 </items>

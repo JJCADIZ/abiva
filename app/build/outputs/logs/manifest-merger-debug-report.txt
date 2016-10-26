@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManif
 		INJECTED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml
 		INJECTED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:5:5-33:19
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:5:5-49:19
 MERGED from [com.android.support:design:24.2.1] /home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.1] /home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
@@ -33,7 +33,7 @@ MERGED from [com.github.paolorotolo:appintro:4.1.0] /home/jjcadiz/AndroidStudioP
 	android:allowBackup
 		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:7:9-40
 	android:theme
 		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.example.jjcadiz.appbiva.MainActivity
@@ -63,11 +63,29 @@ ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:26:25-66
 activity#com.example.jjcadiz.appbiva.IntroActivity
-ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:30:9-32:48
-	android:label
-		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:32:13-45
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:30:9-33:15
+	android:theme
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:32:13-56
 	android:name
 		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:31:13-69
+activity#com.example.jjcadiz.appbiva.ParentActivity
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:35:9-38:15
+	android:theme
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:36:13-70
+activity#com.example.jjcadiz.appbiva.StudentActivity
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:40:9-43:15
+	android:theme
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:41:13-71
+activity#com.example.jjcadiz.appbiva.TeacherActivity
+ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:45:9-48:15
+	android:theme
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml:46:13-71
 uses-sdk
 INJECTED from /home/jjcadiz/AndroidStudioProjects/AppBiva/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:24.2.1] /home/jjcadiz/AndroidStudioProjects/AppBiva/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43

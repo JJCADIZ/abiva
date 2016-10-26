@@ -32,7 +32,7 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="349dp">
+        android:layout_height="240dp">
 
         <ImageView
             android:layout_width="match_parent"
@@ -51,15 +51,15 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:text="A Safe and Child-Friendly App"
+            android:text="An app that is both child-friendly and safe for their eyes. With this app, You need not worry about their intellectual skills in the real life as learning continues everywhere this app goes!"
             android:layout_width="match_parent"
-            android:gravity="center"
+            android:gravity="left"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:id="@+id/textView4"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
-            android:textSize="30sp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 
